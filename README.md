@@ -31,3 +31,11 @@ Blockchain ensures immutability and non-repudiation, which is critical for secur
 - Zero Trust IAM integration
 - Backend (Node.js) event logging
 - Cloud deployment
+
+## Demo Screenshots
+
+### Smart Contract Deployment
+![Contract Deployment](screenshots/contract-deployed.png)
+
+### Writing Immutable Audit Logs
+![Audit Log Transaction](screenshots/audit-log-transaction.png)
